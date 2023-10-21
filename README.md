@@ -47,9 +47,3 @@ To get started with the project, follow these steps:
 - ESP8266 board support for Arduino
 - Required libraries (e.g., ESP8266WiFi, etc.)
 
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your_username/esp8266-home-automation.git
